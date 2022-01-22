@@ -1,6 +1,9 @@
-DESDE UN PRINCIPIO SIEMPRE QUISE ESCRIBIR MI PROPIA historia
-y nunca la historia de Freddy Vega
-Ahora cambiare la historia desde la version inicial
-JAJAJAJAJAJAJAJA
-JAJAJAJAJAJAJAJA
-JAJAJAJAJAJAJAJA
+la historia de unos ramasos.
+como funcionan las ramas en git?.
+
+git tiene un rama master y tiene las ramas que tu proyecto nencesite, 
+ustede mismo las crea o las naces copias apartir de las versiones de otr rama.
+tiene un head que es la rama que se esta usando actualmente 
+y en ese head puedes tener una o mas ramas segun se necesite, varon!.
+
+si necesitas mas ramazos llama a un babalao una vaina de esas.
