@@ -1,18 +1,19 @@
 body
 {
-    color: #898989;
-    text-align: center;
+    color: #e74b4b;
+    text-align: left;
     font-family: 'Courier New', Courier, monospace;
     font-size: 16px;
-    margin: 0;
-    padding: 0;
+    margin: 2;
+    padding: 3;
 }
+
 #container
 {
-    width: 80%;
+    width: 70%;
     padding: 1em;
     text-align: left;
-    border: 1px solid #333;
+    border: 2px solid #333;
     margin: 0 auto;
 }
 
