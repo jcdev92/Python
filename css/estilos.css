@@ -3,17 +3,17 @@ body
     color: #e74b4b;
     text-align: left;
     font-family: 'Courier New', Courier, monospace;
-    font-size: 16px;
-    margin: 2;
-    padding: 3;
+    font-size: 20 px;
+    margin: 200;
+    padding: 200;
 }
 
 #container
 {
-    width: 70%;
-    padding: 1em;
+    width: 40%;
+    padding: 2em;
     text-align: left;
-    border: 2px solid #333;
+    border: 6px solid #333;
     margin: 0 auto;
 }
 
