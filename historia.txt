@@ -2,8 +2,9 @@ la historia de unos ramasos.
 como funcionan las ramas en git?.
 
 git tiene un rama master y tiene las ramas que tu proyecto nencesite, 
-ustede mismo las crea o las naces copias apartir de las versiones de otr rama.
-tiene un head que es la rama que se esta usando actualmente 
-y en ese head puedes tener una o mas ramas segun se necesite, varon!.
+ustede mismo las crea o las naces copias apartir de las versiones de otra rama.
+
+Tiene un head que indica el commit que se esta ejecutando actualmente, 
+mencionando su respectiva rama o ramas segun sea el caso, varon!.
 
 si necesitas mas ramazos llama a un babalao una vaina de esas.
