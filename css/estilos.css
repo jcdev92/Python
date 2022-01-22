@@ -1,6 +1,5 @@
 body
 {
-
     color: #898989;
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
@@ -8,6 +7,7 @@ body
     margin: 0;
     padding: 0;
 }
+
 #container
 {
     width: 80%;
@@ -16,7 +16,8 @@ body
     border: 1px solid #333;
     margin: 0 auto;
 }
-#container h1
+
+#container
 {
     font-size: 20px;
 }
