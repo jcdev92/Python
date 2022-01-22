@@ -1,15 +1,7 @@
-Esta es la historia de Freddy Vega
+NOS OLVIDAMOS DEL PASADO.
 
-Freddy Vega tiene 32 años y nació en Colombia
+ESTE ES UN NUEVO DOCUMENTO DE TEXTO.
 
-Anita Platzi es una persona que contribuye a este proyecto open source y nació en Internet
+CON UNA NUEVA HISTORIA, DONDE CONTAREMOS LAS VERSIONES DE GIT QUE TENDRA
 
-Experimento 1
-
-Experimento 2
-
-Master 1
-
-Master 2
-
-Mañana nos enfocaremos en su vida laboral
+ESTA HISTORIA.
