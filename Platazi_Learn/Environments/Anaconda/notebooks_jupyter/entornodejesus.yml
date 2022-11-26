@@ -1,0 +1,7 @@
+name: py38
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - pandas=1.2
+prefix: /home/gordo/anaconda3/envs/py38

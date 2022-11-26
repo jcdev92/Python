@@ -1,0 +1,87 @@
+[
+    {
+        "query": "https://www.yucatan.gob.mx/gobierno/",
+        "emails": [
+            {
+                "value": "consejo.mejora@yucatan.gob.mx",
+                "sources": [
+                    {
+                        "ref": "http://yucatan.gob.mx/mejora-regulatoria/air.php",
+                        "extracted_on": "2022-01-15T15:23:19.173000",
+                        "updated_on": "2022-01-15T15:23:19.173000"
+                    }
+                ]
+            },
+            {
+                "value": "diario.oficial@yucatan.gob.mx",
+                "sources": [
+                    {
+                        "ref": "http://yucatan.gob.mx/gobierno/diario_oficial.php",
+                        "extracted_on": "2022-01-15T15:23:19.173000",
+                        "updated_on": "2022-01-15T15:23:19.173000"
+                    }
+                ]
+            },
+            {
+                "value": "yucatan.travel@yucatan.gob.mx",
+                "sources": [
+                    {
+                        "ref": "http://sefotur.yucatan.gob.mx",
+                        "extracted_on": "2022-01-15T15:23:19.173000",
+                        "updated_on": "2022-01-15T15:23:19.173000"
+                    },
+                    {
+                        "ref": "http://sefotur.yucatan.gob.mx/secciones/ver/turismo-de-naturaleza",
+                        "extracted_on": "2022-01-15T15:23:19.173000",
+                        "updated_on": "2022-01-15T15:23:19.173000"
+                    },
+                    {
+                        "ref": "http://sefotur.yucatan.gob.mx/secciones/ver/atractivos-turisticos",
+                        "extracted_on": "2022-01-15T15:23:19.173000",
+                        "updated_on": "2022-01-15T15:23:19.173000"
+                    }
+                ]
+            },
+            {
+                "value": "raul.paz@yucatan.gob.mx",
+                "sources": [
+                    {
+                        "ref": "http://sefotur.yucatan.gob.mx/secciones/dinamicas/18",
+                        "extracted_on": "2022-01-15T15:23:19.173000",
+                        "updated_on": "2022-01-15T15:23:19.173000"
+                    },
+                    {
+                        "ref": "http://sefotur.yucatan.gob.mx/secciones/dinamicas/26",
+                        "extracted_on": "2022-01-15T15:23:19.173000",
+                        "updated_on": "2022-01-15T15:23:19.173000"
+                    },
+                    {
+                        "ref": "http://sefotur.yucatan.gob.mx/secciones/dinamicas/19",
+                        "extracted_on": "2022-01-15T15:23:19.173000",
+                        "updated_on": "2022-01-15T15:23:19.173000"
+                    }
+                ]
+            },
+            {
+                "value": "david.gamboa@yucatan.gob.mx",
+                "sources": [
+                    {
+                        "ref": "https://siesp.ssp.gob.mx/Regulacion_De_Empresas/Reguladores_Estatales",
+                        "extracted_on": "2022-01-15T15:23:19.173000",
+                        "updated_on": "2022-01-15T15:23:19.173000"
+                    }
+                ]
+            }
+        ],
+        "socials": {
+            "facebook": "https://www.facebook.com/mauriciovilad",
+            "instagram": "https://instagram.com/yucatanturismo",
+            "twitter": "https://twitter.com/MauVila",
+            "youtube": "https://youtube.com/user/yucatansalud"
+        },
+        "site_data": {
+            "description": "Sitio Web del Poder Ejecutivo del Gobierno del Estado de Yucat\u00e1n.",
+            "title": "Gobierno del Estado de Yucat\u00e1n"
+        }
+    }
+]

@@ -1,0 +1,4 @@
+LINKS =   $x('//div[@class="V_Title"]/a/@href')
+TITLE =   $x('//h2[@data-h="45"]/span/text()')
+SUMMARY = $x('//div[@class="lead"]/p/text()')
+BODDY =   $x('//div[@class="html-content"]/p[not(@class)]/text()')

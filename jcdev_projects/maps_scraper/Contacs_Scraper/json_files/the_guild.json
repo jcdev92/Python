@@ -1,0 +1,160 @@
+[
+    {
+        "query": "https://theguild.co/destinations/Dallas/victory-park-katy-trail",
+        "emails": [
+            {
+                "value": "hello@theguild.co",
+                "sources": [
+                    {
+                        "ref": "https://theguild.co/",
+                        "extracted_on": "2021-09-15T14:12:50.441000",
+                        "updated_on": "2022-05-12T17:14:29.866000"
+                    },
+                    {
+                        "ref": "https://theguild.co/property-partners/",
+                        "extracted_on": "2021-09-15T14:12:50.441000",
+                        "updated_on": "2021-09-15T14:12:50.441000"
+                    },
+                    {
+                        "ref": "https://theguild.co/destinations/dallas/",
+                        "extracted_on": "2021-09-15T14:12:50.441000",
+                        "updated_on": "2021-09-15T14:12:50.441000"
+                    },
+                    {
+                        "ref": "https://theguild.co/the-guild-for-work/",
+                        "extracted_on": "2021-09-15T14:12:50.441000",
+                        "updated_on": "2021-09-15T14:12:50.441000"
+                    },
+                    {
+                        "ref": "https://theguild.co/destinations/miami/",
+                        "extracted_on": "2021-09-15T14:12:50.441000",
+                        "updated_on": "2021-09-15T14:12:50.441000"
+                    }
+                ]
+            },
+            {
+                "value": "media@theguild.co",
+                "sources": [
+                    {
+                        "ref": "https://theguild.co/",
+                        "extracted_on": "2021-09-15T14:12:50.441000",
+                        "updated_on": "2021-09-15T14:12:50.441000"
+                    },
+                    {
+                        "ref": "https://theguild.co/property-partners/",
+                        "extracted_on": "2021-09-15T14:12:50.441000",
+                        "updated_on": "2021-09-15T14:12:50.441000"
+                    },
+                    {
+                        "ref": "https://theguild.co/destinations/dallas/",
+                        "extracted_on": "2021-09-15T14:12:50.441000",
+                        "updated_on": "2021-09-15T14:12:50.441000"
+                    },
+                    {
+                        "ref": "https://theguild.co/the-guild-for-work/",
+                        "extracted_on": "2021-09-15T14:12:50.441000",
+                        "updated_on": "2021-09-15T14:12:50.441000"
+                    },
+                    {
+                        "ref": "https://theguild.co/destinations/miami/",
+                        "extracted_on": "2021-09-15T14:12:50.441000",
+                        "updated_on": "2021-09-15T14:12:50.441000"
+                    }
+                ]
+            },
+            {
+                "value": "sales@theguild.co",
+                "sources": [
+                    {
+                        "ref": "https://theguild.co/",
+                        "extracted_on": "2021-09-15T14:12:50.441000",
+                        "updated_on": "2022-05-12T17:14:29.866000"
+                    },
+                    {
+                        "ref": "https://theguild.co/property-partners/",
+                        "extracted_on": "2021-09-15T14:12:50.441000",
+                        "updated_on": "2021-09-15T14:12:50.441000"
+                    },
+                    {
+                        "ref": "https://theguild.co/destinations/dallas/",
+                        "extracted_on": "2021-09-15T14:12:50.441000",
+                        "updated_on": "2021-09-15T14:12:50.441000"
+                    },
+                    {
+                        "ref": "https://theguild.co/the-guild-for-work/",
+                        "extracted_on": "2021-09-15T14:12:50.441000",
+                        "updated_on": "2021-09-15T14:12:50.441000"
+                    },
+                    {
+                        "ref": "https://theguild.co/destinations/miami/",
+                        "extracted_on": "2021-09-15T14:12:50.441000",
+                        "updated_on": "2021-09-15T14:12:50.441000"
+                    }
+                ]
+            },
+            {
+                "value": "realestate@theguild.co",
+                "sources": [
+                    {
+                        "ref": "https://theguild.co/",
+                        "extracted_on": "2021-09-15T14:12:50.441000",
+                        "updated_on": "2022-05-12T17:14:29.866000"
+                    },
+                    {
+                        "ref": "https://theguild.co/property-partners/",
+                        "extracted_on": "2021-09-15T14:12:50.441000",
+                        "updated_on": "2021-09-15T14:12:50.441000"
+                    },
+                    {
+                        "ref": "https://theguild.co/destinations/dallas/",
+                        "extracted_on": "2021-09-15T14:12:50.441000",
+                        "updated_on": "2021-09-15T14:12:50.441000"
+                    },
+                    {
+                        "ref": "https://theguild.co/the-guild-for-work/",
+                        "extracted_on": "2021-09-15T14:12:50.441000",
+                        "updated_on": "2021-09-15T14:12:50.441000"
+                    },
+                    {
+                        "ref": "https://theguild.co/destinations/miami/",
+                        "extracted_on": "2021-09-15T14:12:50.441000",
+                        "updated_on": "2021-09-15T14:12:50.441000"
+                    }
+                ]
+            }
+        ],
+        "socials": {
+            "facebook": "https://www.facebook.com/theguild.co/",
+            "instagram": "http://instagram.com/theguild.co",
+            "linkedin": "https://www.linkedin.com/company/guild-hotels",
+            "youtube": "https://www.youtube.com/channel/UCQ8r0eDj4LSOnTQT1jF3Rdg"
+        },
+        "site_data": {
+            "description": "Here at The Guild, we're on a mission to blur the lines of living and travel. Our properties allow for you to live with us full-time or stay for a few nights to a few months in a fully furnished apartments. We're building a future where your favorite cities have a Guild property waiting for you to work, live, or travel.",
+            "generator": "Powered by WPBakery Page Builder - drag and drop page builder for WordPress.",
+            "title": "The Guild | A Platform for Flexible Living and Travel"
+        },
+        "phones": [
+            {
+                "value": "5126237480",
+                "sources": [
+                    {
+                        "ref": "https://theguild.co/destination/dallas/",
+                        "extracted_on": "2022-05-12T17:14:29.866000",
+                        "updated_on": "2022-05-12T17:14:29.866000"
+                    },
+                    {
+                        "ref": "https://theguild.co/destination/dallas/",
+                        "extracted_on": "2022-05-12T17:14:29.866000",
+                        "updated_on": "2022-05-12T17:14:29.866000"
+                    },
+                    {
+                        "ref": "https://theguild.co/destination/dallas/",
+                        "extracted_on": "2022-05-12T17:14:29.866000",
+                        "updated_on": "2022-05-12T17:14:29.866000"
+                    }
+                ]
+            }
+        ]
+    }
+]

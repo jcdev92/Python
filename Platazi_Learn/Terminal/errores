@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "/home/gordo/jmcgProjects/first_proyect/Python_Programs/multiplos_o_error.py", line 8, in <module>
+    if((i % d) ==0):
+TypeError: unsupported operand type(s) for %: 'int' and 'str'
