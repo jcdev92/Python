@@ -145,6 +145,6 @@ dist
 
 # Python env
 venv/
-.venv/
+venv/
 
 .idea/
