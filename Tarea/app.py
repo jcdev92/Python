@@ -24,7 +24,6 @@ def controller_poke(headers):
             return {'exists_ability': False}, 200
 
 
-
 @app.route('/poke')
 def poke():
     response = controller_poke(request.headers)
