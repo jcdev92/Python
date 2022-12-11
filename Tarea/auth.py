@@ -1,8 +1,9 @@
-from flask import Flask, request
 from flask_api import status
-
+from flask import Flask, request
 
 app = Flask(__name__)
+
+status_code = status.HTTP_200_OK
 
 
 @app.route('/auth')
