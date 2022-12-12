@@ -5,6 +5,17 @@ app = Flask(__name__)
 
 
 def controller_poke(headers):
+
+    _url = 'http://127.0.0.1:9001/auth'
+    _headers = {'uuid': headers['uuid']}
+    _token = request.cookies.get('jwt')
+    _response = requests.get(url=_url, headers=_headers, cookies={'jwt': _token})
+
+    _response = _response.json()
+
+    if not _response['authenticated']:
+        return _response
+
     try:
         endpoint_poke_api = headers['endpoint_poke_api']
         param_ability_name = headers['param_ability_name']

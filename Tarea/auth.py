@@ -5,8 +5,6 @@ import jwt
 
 app = Flask(__name__)
 
-status_code = status.HTTP_200_OK
-
 
 @app.route('/login')
 def login():
@@ -33,12 +31,12 @@ def auth():
         token = request.cookies.get('jwt')
         payload = jwt.decode(token, 'secret', algorithms=['HS256'])
         if payload['id'] != request.headers['uuid']:
-            return {'Authenticate': False}, status.HTTP_401_UNAUTHORIZED
+            return {'authenticated': False}, status.HTTP_401_UNAUTHORIZED
 
     except jwt.ExpiredSignatureError:
-        return {'Authenticate': False}, status.HTTP_401_UNAUTHORIZED
+        return {'authenticated': False}, status.HTTP_401_UNAUTHORIZED
 
-    return {'Authenticate': True}, status.HTTP_200_OK
+    return {'authenticated': True}, status.HTTP_200_OK
 
 
 if __name__ == '__main__':
