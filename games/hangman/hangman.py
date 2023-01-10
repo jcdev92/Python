@@ -22,18 +22,18 @@ print(logo)
 print("please welcome to the hangman game, enter a letter until you match the secret word or lose all your lives")
 
 while matched != selected_word and lives > 0:
-    print(f"\n   {formated}  \n")
+    print(f"\n{formated}\n")
     letter = input("please enter a letter:\n").lower()
     clear()
     if selected_word.find(letter) >= 0:
         for i in range(0, len(selected_word)):
             if selected_word[i] == letter:
                 blanks[i] = letter
-        print(f"HIT! the letter: '{letter}' is in the secret word, keep going until you win or you die")
+        print(f"HIT! the letter: '{letter}' is in the secret word!")
     else:
         lives -= 1
         hangman = stages[lives]
-        print(f"\nwrong! you gussed the letter: '{letter}', and that's not in the secret word, you loose a life")
+        print(f"\nwrong! you guessed the letter: '{letter}', and that's not in the secret word, you loose a life")
 
     if hangman:    
         print(hangman)
@@ -44,6 +44,6 @@ while matched != selected_word and lives > 0:
 if lives == 0:
     print("game over, you are dead")
 elif matched == selected_word:
-    print(f"\n The WORD is \n{matched}")
+    print(f"\n The WORD is {selected_word}")
     print("\nCongrats!! You Win!")
     
